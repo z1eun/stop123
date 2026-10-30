@@ -1,0 +1,6 @@
+{
+  "name": "안전하게 건너요! - 유아 교통안전 체험 시뮬레이션",
+  "description": "만 3~5세 유아를 위한 '멈춘다! 살핀다! 건넌다!' 횡단보도 안전교육 인터랙티브 시뮬레이션 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
